@@ -1,0 +1,14 @@
+{
+  "name": "challenge_santanodehelper",
+  "version": "1.0.0",
+  "description": "Exercise Resources: Santa's Node Helper",
+  "main": "script.js",
+  "scripts": {
+    "start": "nodemon"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  }
+}
